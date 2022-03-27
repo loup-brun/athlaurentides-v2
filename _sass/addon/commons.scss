@@ -41,7 +41,7 @@ body {
 h1 {
   @extend %heading;
 
-  font-size: 1.9rem;
+  font-size: 3.5rem;
 }
 
 h2 {
@@ -49,7 +49,7 @@ h2 {
   @extend %section;
   @extend %anchor;
 
-  font-size: 2.25rem;
+  font-size: 1.9rem;
 }
 
 h3 {
@@ -57,7 +57,7 @@ h3 {
   @extend %section;
   @extend %anchor;
 
-  font-size: 1.5rem;
+  font-size: 1.42rem;
 }
 
 h4 {
@@ -401,6 +401,7 @@ img[data-src] {
   h1 {
     margin-top: 3rem;
     margin-bottom: 1.5rem;
+    font-size: 4.4rem;
   }
 
   a {

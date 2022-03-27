@@ -40,7 +40,7 @@ copyright:
     Sauf lors de mention contraire, les contenus de ce site sont sous licence
     Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-meta: Un site construit avec :PLATFORM. Le thème :THEME a été modifié par :AUTHOR.
+meta: Un site construit avec :PLATFORM en utilisant le thème :THEME modifié par :AUTHOR.
 
 not_found:
   statment: Désolé, la page demandée n’existe pas, ou a pu être supprimée.
