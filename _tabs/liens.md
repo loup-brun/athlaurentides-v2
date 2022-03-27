@@ -1,7 +1,7 @@
 ---
 title: Liens utiles
 order: 2
-icon: fa-link
+icon: fa fa-link
 ---
 
 - [Les Jeux du Québec Laval 2022](https://laval2022.jeuxduquebec.com/fr/index.html)

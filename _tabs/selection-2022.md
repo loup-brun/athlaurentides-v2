@@ -2,7 +2,7 @@
 title: Sélection 2022
 description: Toute l’information en vue de la sélection des Jeux de Laval 2022.
 order: 1
-icon: fa-star
+icon: fa fa-star
 ---
 
 La 55e finale des Jeux du Québec aura lieu à Laval à l’été 2022. L’athlétisme aura lieu dans le premier bloc de compétitions, soit du vendredi 22 au mardi 26 juillet.
