@@ -1,0 +1,78 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Billet
+  category: Catégorie
+  tag: Étiquette
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Accueil
+  categories: Catégories
+  tags: Étiquettes
+  archives: Archives
+  about: À propos
+
+# the text displayed in the search bar & search results
+search:
+  hint: rechercher
+  cancel: Annuler
+  no_results: Oups! Aucun résultat trouvé.
+
+panel:
+  lastmod: Récentes mises à jour
+  trending_tags: Étiquettes populaires
+  toc: Sur cette page
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Ce billet est sous licence :LICENSE_NAME par son auteur.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: Certains droits réservés.
+  verbose: >-
+    Sauf lors de mention contraire, les contenus de ce site sont sous licence
+    Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+meta: Un site construit avec :PLATFORM. Le thème :THEME a été modifié par :AUTHOR.
+
+not_found:
+  statment: Désolé, la page demandée n’existe pas, ou a pu être supprimée.
+  hint_template: :HEAD_BAK ou cherchez la page dans les :ARCHIVES_PAGE.
+  head_back: Retournez à l’accueil
+  archives_page: archives
+
+# ----- Posts related labels -----
+
+post:
+  written_by: par
+  posted: Publié
+  updated: Mis à jour
+  words: mots
+  pageview_measure: vues
+  read_time:
+    unit: min
+    prompt: de lecture
+  relate_posts: Contenus reliés
+  share: Partager
+  button:
+    next: Plus récent
+    previous: Plus anciens
+    copy_code:
+      succeed: Copié!
+    share_link:
+      title: Copier le lien
+      succeed: Lien copié!
+  # pinned prompt of posts list on homepage
+  pin_prompt: Épinglé
+
+# categories page
+categories:
+  category_measure: categories
+  post_measure: posts
