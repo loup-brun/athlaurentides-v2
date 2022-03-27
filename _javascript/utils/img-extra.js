@@ -5,7 +5,7 @@
 
 $(function() {
 
-  const IMG_SCOPE = '#main > div.row:first-child > div:first-child';
+  const IMG_SCOPE = '.main-inner';
 
   if ($(`${IMG_SCOPE} img`).length <= 0 ) {
     return;
@@ -19,29 +19,29 @@ $(function() {
 
   /* popup */
 
-  $(`${IMG_SCOPE} p > img[data-src],${IMG_SCOPE} img[data-src].preview-img`).each(
-    function() {
-      let nextTag = $(this).next();
-      const title = nextTag.prop('tagName') === 'EM' ? nextTag.text() : '';
-      const src = $(this).attr('data-src'); // created by lozad.js
-
-      $(this).wrap(`<a href="${src}" title="${title}" class="popup"></a>`);
-    }
-  );
-
-  $('.popup').magnificPopup({
-    type: 'image',
-    closeOnContentClick: true,
-    showCloseBtn: false,
-    zoom: {
-      enabled: true,
-      duration: 300,
-      easing: 'ease-in-out'
-    }
-  });
-
-  /* markup the image links */
-
-  $(`${IMG_SCOPE} a`).has('img').addClass('img-link');
+  // $(`${IMG_SCOPE} p > img[data-src],${IMG_SCOPE} img[data-src].preview-img`).each(
+  //   function() {
+  //     let nextTag = $(this).next();
+  //     const title = nextTag.prop('tagName') === 'EM' ? nextTag.text() : '';
+  //     const src = $(this).attr('data-src'); // created by lozad.js
+  //
+  //     $(this).wrap(`<a href="${src}" title="${title}" class="popup"></a>`);
+  //   }
+  // );
+  //
+  // $('.popup').magnificPopup({
+  //   type: 'image',
+  //   closeOnContentClick: true,
+  //   showCloseBtn: false,
+  //   zoom: {
+  //     enabled: true,
+  //     duration: 300,
+  //     easing: 'ease-in-out'
+  //   }
+  // });
+  //
+  // /* markup the image links */
+  //
+  // $(`${IMG_SCOPE} a`).has('img').addClass('img-link');
 
 });

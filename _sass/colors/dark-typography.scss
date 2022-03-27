@@ -12,11 +12,11 @@
   /* Common color */
   --text-color: rgb(175, 176, 177);
   --text-muted-color: rgb(107, 116, 124);
-  --heading-color: #ff6900;
+  --heading-color: #ffffff;
   --blockquote-border-color: rgb(66, 66, 66);
   --blockquote-text-color: rgb(117, 117, 117);
-  --link-color: rgb(138, 180, 248);
-  --link-underline-color: rgb(82, 108, 150);
+  --link-color: #ff6900;
+  --link-underline-color: var(--link-color);
   --button-bg: rgb(39, 40, 43);
   --btn-border-color: rgb(63, 65, 68);
   --btn-backtotop-color: var(--text-color);
@@ -28,7 +28,7 @@
   --checkbox-checked-color: var(--link-color);
 
   /* Sidebar */
-  --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
+  --sidebar-bg: rgb(39, 40, 43);
   --sidebar-muted-color: #6d6c6b;
   --sidebar-active-color: rgb(255 255 255 / 80%);
   --nav-cursor-color: rgb(183, 182, 182);
@@ -44,7 +44,7 @@
 
   /* Home page */
   --post-list-text-color: rgb(175, 176, 177);
-  --btn-patinator-text-color: var(--text-color);
+  --btn-paginator-text-color: var(--text-color);
   --btn-paginator-hover-color: rgb(64, 65, 66);
   --btn-paginator-border-color: var(--btn-border-color);
   --btn-text-color: var(--text-color);

@@ -1,5 +1,5 @@
 ---
-title: Sélection finale
+title: Sélection finale 2018
 date: 2018-07-15
 banner: nick-hillier-339049-unsplash.jpg
 description : Consultez la composition finale de l'équipe des Laurentides aux Jeux du Québec, Thetford 2018.

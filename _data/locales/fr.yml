@@ -51,6 +51,7 @@ not_found:
 # ----- Posts related labels -----
 
 post:
+  recent_posts: Dernières nouvelles
   written_by: par
   posted: Publié
   updated: Mis à jour
@@ -59,18 +60,18 @@ post:
   read_time:
     unit: min
     prompt: de lecture
-  relate_posts: Contenus reliés
+  relate_posts: Pages connexes
   share: Partager
   button:
-    next: Plus récent
-    previous: Plus anciens
+    next: Pages plus récentes
+    previous: Pages plus anciennes
     copy_code:
       succeed: Copié!
     share_link:
       title: Copier le lien
       succeed: Lien copié!
   # pinned prompt of posts list on homepage
-  pin_prompt: Épinglé
+  pin_prompt: En avant
 
 # categories page
 categories:

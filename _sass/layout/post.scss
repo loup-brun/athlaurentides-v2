@@ -71,12 +71,13 @@ img.preview-img {
   .btn {
     @include btn-post-nav;
 
+    transition: background-color .3s;
     color: var(--link-color);
 
     &:hover {
-      background: #2a408e;
+      background: var(--link-color);
       color: #fff;
-      border-color: #2a408e;
+      border-color: var(--link-color);
     }
 
     &.disabled {
@@ -168,7 +169,7 @@ nav[data-toggle=toc] {
 
 #related-posts {
   > h3 {
-    @include label(1.1rem, 600);
+    @include label(1.1rem, 900);
   }
 
   em {
@@ -183,7 +184,7 @@ nav[data-toggle=toc] {
     -moz-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 
-    h3 {
+    h4 {
       @extend %text-color;
     }
 
@@ -204,8 +205,9 @@ nav[data-toggle=toc] {
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
+    line-height: 1.375;
   }
 
   a:hover {
@@ -262,13 +264,11 @@ nav[data-toggle=toc] {
       &:not(:last-child) {
         margin-right: 0.25rem;
       }
+      transition: opacity .2s;
 
       &:hover {
         text-decoration: none;
-
-        > i {
-          @extend %btn-share-hovor;
-        }
+        opacity: .75;
       }
     }
 
@@ -322,9 +322,12 @@ nav[data-toggle=toc] {
 
   > a {
     color: var(--text-color);
+    transition: color .2s;
+    border-bottom: 1px solid currentColor;
 
     &:hover {
-      @extend %link-hover;
+      color: var(--link-color);
+      text-decoration: none;
     }
   }
 

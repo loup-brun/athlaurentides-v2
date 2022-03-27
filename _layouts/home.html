@@ -5,6 +5,14 @@ layout: page
 
 {% include lang.html %}
 
+{% if content != "" %}
+<div class="row">
+  <article class="col-12">
+    {{ content }}
+  </article>
+</div>
+{% endif %}
+
 {% assign pinned = site.posts | where: "pin", "true" %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true and item.hidden != true" %}
 
@@ -43,12 +51,14 @@ layout: page
 
 <div id="post-list">
 
+  <h2>{{ site.data.locales[lang].post.recent_posts }}</h2>
+
 {% for post in posts %}
 
-  <div class="post-preview">
-    <h1>
+  <article class="post-preview">
+    <h3>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </h1>
+    </h3>
 
     <div class="post-content">
       <p>
@@ -89,12 +99,12 @@ layout: page
 
     </div> <!-- .post-meta -->
 
-  </div> <!-- .post-review -->
+  </article> <!-- .post-review -->
 
 {% endfor %}
 
 </div> <!-- #post-list -->
 
-{% if paginator.total_pages > 0 %}
+{% if paginator.total_pages > 1 %}
   {% include post-paginator.html %}
 {% endif %}

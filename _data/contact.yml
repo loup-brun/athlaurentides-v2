@@ -4,8 +4,17 @@
 #  type: github
 #  icon: 'fab fa-github'
 -
+  type: instagram
+  icon: 'fab fa-instagram'
+
+-
+  type: facebook
+  icon: 'fab fa-facebook-square'
+-
   type: twitter
   icon: 'fab fa-twitter'
+
+
 -
   type: email
   icon: 'fas fa-envelope'

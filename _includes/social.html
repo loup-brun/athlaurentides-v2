@@ -1,0 +1,39 @@
+<div class="access">
+  <div>
+    <div class="panel-heading">Réseaux sociaux</div>
+
+    <p class="small">Retrouvez-nous sur <a href="https://www.facebook.com/{{ site.facebook.username }}" target="_blank" rel="noopener" title="Facebook: @{{ site.facebook.username }}">Facebook</a>, <a href="https://www.instagram.com/{{ site.instagram.username }}" target="_blank" rel="noopener" title="Instagram: @{{ site.instagram.username }}">Instagram</a> et <a href="https://twitter.com/{{ site.twitter.username }}" target="_blank" rel="noopener" title="Twitter: @{{ site.twitter.username }}">Twitter</a>.</p>
+
+    <p class="small">S’abonner via <a href="/feed.xml" title="Lien RSS">RSS</a>.</p>
+<!--
+    {% for entry in site.data.contact %}
+      {% capture url %}
+        {%- if entry.type == 'github' -%}
+          https://github.com/{{ site.github.username }}
+        {%- elsif entry.type == 'facebook' -%}
+          https://www.facebook.com/{{ site.facebook.username }}
+        {%- elsif entry.type == 'instagram' -%}
+          https://www.instagram.com/{{ site.instagram.username }}
+        {%- elsif entry.type == 'twitter' -%}
+          https://twitter.com/{{ site.twitter.username }}
+        {%- elsif entry.type == 'email' -%}
+          {% assign email = site.social.email | split: '@' %}
+          javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
+        {%- elsif entry.type == 'rss' -%}
+          {{ "/feed.xml" | relative_url }}
+        {%- else -%}
+          {{ entry.url }}
+        {%- endif -%}
+      {% endcapture %}
+
+      {% if url %}
+      <a href="{{ url }}" aria-label="{{ entry.type }}"
+        {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
+        <i class="{{ entry.icon }}"></i>
+      </a>
+      {% endif %}
+    {% endfor %}
+    -->
+
+  </div>
+</div>

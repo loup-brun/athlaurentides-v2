@@ -6,7 +6,7 @@ $(function() {
   const btnSbTrigger = $("#sidebar-trigger");
   const btnSearchTrigger = $("#search-trigger");
   const btnCancel = $("#search-cancel");
-  const main = $("#main");
+  const main = $(".main-inner");
   const topbarTitle = $("#topbar-title");
   const searchWrapper = $("#search-wrapper");
   const resultWrapper = $("#search-result-wrapper");
@@ -57,7 +57,7 @@ $(function() {
     return {
       on() {
         if (!visible) {
-          // the block method must be called before $(#main) unloaded.
+          // the block method must be called before $(#main-inner) unloaded.
           scrollBlocker.block();
           resultWrapper.removeClass("unloaded");
           main.addClass("unloaded");
@@ -73,7 +73,7 @@ $(function() {
           resultWrapper.addClass("unloaded");
           main.removeClass("unloaded");
 
-          // now the release method must be called after $(#main) display
+          // now the release method must be called after $(#main-inner) display
           scrollBlocker.release();
 
           input.val("");
