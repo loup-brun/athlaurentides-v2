@@ -51,9 +51,9 @@ layout: page
 
 <div id="post-list">
 
-  <h2><i class="fa fa-stopwatch"></i> {{ site.data.locales[lang].post.recent_posts }}</h2>
+  <h2>{{ site.data.locales[lang].post.recent_posts }}</h2>
 
-{% for post in posts %}
+{% for post in posts limit: 3 %}
 
   <article class="post-preview">
     <h3>
@@ -65,7 +65,9 @@ layout: page
         {% include no-linenos.html content=post.content %}
         {{ content | markdownify | strip_html | truncate: 200 | escape }}
       </p>
+
     </div>
+    <div class="post-footer"><a href="{{ post.url | relative_url }}">{{ site.data.locales[lang].post.read_more }} <i class="icon fa fa-arrow-right"></i></a></div>
 
     <div class="post-meta text-muted d-flex">
 
@@ -103,8 +105,16 @@ layout: page
 
 {% endfor %}
 
+  <div class="post-list-footer">
+    <a href="/archives/">{{ site.data.locales[lang].post.read_more_news }}</a>
+  </div>
+
 </div> <!-- #post-list -->
 
+
+{% comment %}
+<!-- Paginator is commented out since home only lists fist few posts -->
 {% if paginator.total_pages > 1 %}
   {% include post-paginator.html %}
 {% endif %}
+{% endcomment %}

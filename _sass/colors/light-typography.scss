@@ -21,7 +21,7 @@
   --btn-border-color: #e9ecef;
   --btn-backtotop-color: #686868;
   --btn-backtotop-border-color: #f1f1f1;
-  --btn-box-shadow: #eaeaea;
+  --btn-box-shadow: rgba(0, 0, 0, .15);
   --checkbox-color: #c5c5c5;
   --checkbox-checked-color: #ff6900;
 
@@ -42,7 +42,7 @@
   --input-focus-border-color: var(--btn-border-color);
 
   /* Home page */
-  --post-list-text-color: dimgray;
+  --post-list-text-color: #aaa;
   --btn-paginator-text-color: #555555;
   --btn-paginator-hover-color: var(--sidebar-bg);
   --btn-paginator-border-color: var(--sidebar-bg);

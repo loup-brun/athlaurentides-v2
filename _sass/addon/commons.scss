@@ -402,6 +402,7 @@ img[data-src] {
     margin-top: 3rem;
     margin-bottom: 1.5rem;
     font-size: 4.4rem;
+    font-weight: 900;
   }
 
   a {
@@ -436,7 +437,8 @@ img[data-src] {
   word-spacing: 1px;
 
   a {
-    transition: color .25s;
+    transition: color .25s, border-color .25s;
+    border-bottom: 1px solid transparent;
 
     &:not(:last-child) {
       margin-right: 2px;
@@ -460,13 +462,15 @@ img[data-src] {
   word-wrap: break-word;
 
   a {
-    transition: color .25s;
+    transition: color .25s, border-color .25s;
 
     &:not(.img-link) {
       @extend %link-underline;
+      border-bottom: 1px solid currentColor;
 
       &:hover {
         @extend %link-hover;
+        border-bottom-color: var(--main-border-color);
       }
     }
 
@@ -712,12 +716,15 @@ $sidebar-display: "sidebar-display";
   } /* #avatar */
 
   .site-title {
+    color: var(--heading-color);
+    font-family: "Hernandez Niu", Rockwell, serif;
+    letter-spacing: .035em;
+    font-weight: 800;
+    font-size: 1.5rem;
+
     a {
       @extend %clickable-transition;
 
-      font-weight: 900;
-      font-size: 1.5rem;
-      letter-spacing: 0.5px;
       color: var(--text-color);
       &:hover {
         color: var(--link-color);

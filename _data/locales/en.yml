@@ -51,6 +51,8 @@ not_found:
 # ----- Posts related labels -----
 
 post:
+  read_more: Read more
+  read_more_news: Read more news
   written_by: By
   posted: Posted
   updated: Updated
