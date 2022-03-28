@@ -186,9 +186,11 @@ exclude:
   - tools
   - README.md
   - LICENSE
+  - Makefile
   - gulpfile.js
   - node_modules
   - package*.json
+  - pnpm-lock.yaml
 
 jekyll-archives:
   enabled: [categories, tags]
