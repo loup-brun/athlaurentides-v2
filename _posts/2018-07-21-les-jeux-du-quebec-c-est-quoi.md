@@ -7,7 +7,7 @@ tags:
 - athlètes
 ---
 
-Tu as été sélectionné(e) pour participer aux [Jeux du Québec](http://jeuxduquebec.com) – _yeehoue! félicitations! tope-là!_ 🙌 –  mais tu n’as aucune idée à quoi ça ressemble 😱. Tu trépignes d'impatience – _tu as raison de le faire!_ 😉 –, mais tu ignores pourquoi 🤔. N’aie crainte! Cet article est pour toi.
+Tu as été sélectionné(e) pour participer aux [Jeux du Québec](http://jeuxduquebec.com) – _yeehoue! félicitations! tope-là!_ 🙌 –  mais tu n’as aucune idée à quoi ça ressemble 😱.<!--more--> Tu trépignes d'impatience – _tu as raison de le faire!_ 😉 –, mais tu ignores pourquoi 🤔. N’aie crainte! Cet article est pour toi.
 
 ## Les Jeux du Québec
 

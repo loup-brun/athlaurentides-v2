@@ -55,6 +55,8 @@
     {{ site.title }}
   </title>
 
+  <meta name="description" content="{{ page.description | default: page.excerpt | markdownify | strip_html }}">
+
   {% include favicons.html %}
 
   {% if site.resources.ignore_env != jekyll.environment and site.resources.self_hosted %}

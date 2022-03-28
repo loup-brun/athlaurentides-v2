@@ -39,21 +39,26 @@ body {
 /* --- Typography --- */
 
 h1 {
-  @extend %heading;
+  @include heading;
 
   font-size: 3.5rem;
 }
 
 h2 {
-  @extend %heading;
+  @include heading;
   @extend %section;
   @extend %anchor;
 
   font-size: 1.9rem;
+
+  @media (min-width: 850px) {
+    font-size: 3rem;
+    font-weight: 900;
+  }
 }
 
 h3 {
-  @extend %heading;
+  @include heading;
   @extend %section;
   @extend %anchor;
 
@@ -61,7 +66,7 @@ h3 {
 }
 
 h4 {
-  @extend %heading;
+  @include heading;
   @extend %section;
   @extend %anchor;
 
@@ -69,7 +74,7 @@ h4 {
 }
 
 h5 {
-  @extend %heading;
+  @include heading;
   @extend %section;
   @extend %anchor;
 
@@ -280,7 +285,7 @@ img[data-src] {
 
 #access-lastmod {
   li {
-    height: 1.8rem;
+    height: 1.5rem; // line-height
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
@@ -401,8 +406,16 @@ img[data-src] {
   h1 {
     margin-top: 3rem;
     margin-bottom: 1.5rem;
-    font-size: 4.4rem;
-    font-weight: 900;
+    color: var(--heading-color);
+    font-size: 3rem;
+    @media (min-width: 850px) {
+      font-size: 3.75rem;
+      font-weight: 900;
+    }
+    @media (min-width: 960px) {
+      font-size: 4.5rem;
+    }
+    line-height: 1.05;
   }
 
   a {
@@ -456,7 +469,7 @@ img[data-src] {
 
 .post-content {
   font-size: 1.08rem;
-  line-height: 1.8;
+  line-height: 1.5;
   margin-top: 2rem;
   overflow-wrap: break-word;
   word-wrap: break-word;
@@ -526,6 +539,10 @@ img[data-src] {
 
   dl > dd {
     margin-left: 1rem;
+  }
+
+  table {
+    width: 100%;
   }
 
 } /* .post-content */
@@ -717,7 +734,7 @@ $sidebar-display: "sidebar-display";
 
   .site-title {
     color: var(--heading-color);
-    font-family: "Hernandez Niu", Rockwell, serif;
+    font-family: var(--heading-font-family);
     letter-spacing: .035em;
     font-weight: 800;
     font-size: 1.5rem;
@@ -1030,7 +1047,7 @@ $sidebar-display: "sidebar-display";
 
     @extend %link-color;
     @extend %no-bottom-border;
-    @extend %heading;
+    @include heading;
 
     font-size: 1.4rem;
     line-height: 2.5rem;
@@ -1060,11 +1077,12 @@ $sidebar-display: "sidebar-display";
 } /* #search-results */
 
 #topbar-title {
+
   display: none;
   font-size: 1.1rem;
-  font-weight: 600;
-  font-family: sans-serif;
   color: var(--topbar-text-color);
+  font-family: var(--heading-font-family);
+  font-weight: 800;
   text-align: center;
   width: 70%;
   overflow: hidden;

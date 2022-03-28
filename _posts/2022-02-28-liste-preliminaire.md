@@ -11,6 +11,8 @@ pin: true
 
 Voici un portrait préliminaire d’athlètes des Laurentides en vue pour l’équipe de JDQ2022 (7 athlètes féminins, 8 athlètes masculins, 15 athlètes au total).
 
+<!--more-->
+
 | # | F                  | H                   |
 |---|--------------------|---------------------|
 | 1 | Alexia Rodrigue    | 	Freud K. Romulus * |
@@ -21,5 +23,3 @@ Voici un portrait préliminaire d’athlètes des Laurentides en vue pour l’é
 | 6 | Frédérique Boucher |  	Xavier Portugais  |
 | 7 | Arielle Garant     | 	Gabriel Genest     |
 | 8 | 	                  | 	Kayin Guérin *     |
-
-

@@ -26,7 +26,7 @@
   color: var(--text-color);
 }
 
-h1 + .post-meta {
+.post-meta {
   span + span::before {
     @include dot;
   }
@@ -41,9 +41,8 @@ h1 + .post-meta {
 }
 
 img.preview-img {
-  margin-top: 3.75rem;
+  margin-top: $topbar-height;
   margin-bottom: 0;
-  border-radius: 6px;
 
   &.bg[data-loaded=true] {
     background: var(--preview-img-bg);
@@ -169,7 +168,7 @@ nav[data-toggle=toc] {
 
 #related-posts {
   > h3 {
-    @include label(1.1rem, 900);
+    @include label(2.5rem, 200);
   }
 
   em {

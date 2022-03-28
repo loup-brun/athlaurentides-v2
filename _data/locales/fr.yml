@@ -55,8 +55,8 @@ post:
   read_more_news: Lire plus de nouvelles
   recent_posts: Dernières nouvelles
   written_by: par
-  posted: Publié
-  updated: Mis à jour
+  posted: "Publié&nbsp;:"
+  updated: Dernière mise à jour
   words: mots
   pageview_measure: vues
   read_time:
@@ -65,8 +65,8 @@ post:
   relate_posts: Pages connexes
   share: Partager
   button:
-    next: Pages plus récentes
-    previous: Pages plus anciennes
+    next: Publications plus récentes
+    previous: Publications plus anciennes
     copy_code:
       succeed: Copié!
     share_link:
