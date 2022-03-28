@@ -10,8 +10,8 @@ La 55e finale des Jeux du Québec aura lieu à Laval à l’été 2022. L’athl
 
 Il y a deux critères obligatoires pour la sélection de l’athlète :
 
-1. Réalisation d’un standard
-2. Participation à la finale régionale
+1. Réalisation d’un standard de performance;
+2. Participation à une compétition identifiée finale régionale.
 
 ## Compétitions de sélection
 
