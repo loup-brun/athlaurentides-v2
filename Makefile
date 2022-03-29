@@ -23,4 +23,4 @@ clean:
 	rm -rf $(DIST_DIR)
 
 all: clean build deploy
-	echo "Terminé"
+	@echo "\"make\" all terminé"
