@@ -87,8 +87,7 @@ _Source : [standards d’inscription](https://www.athletisme-quebec.ca/medias/st
 - pour participer à **une seule épreuve** (à l’exception des épreuves combinées), un standard d’inscription n’est pas exigé (mais l’athlète doit tout de même être identifié «&nbsp;espoir régional&nbsp;» par la Fédération québécoise d’athlétisme);
 - la réalisation d’un standard ne garantit pas à elle seule une qualification automatique de l’athlète;
 - la réalisation de plusieurs standards ainsi que les performances de l’athlète au courant de la saison constitueront des critères déterminants dans le processus de sélection;
-
-Le standard d’inscription doit être réalisé durant la période du **1<sup>er</sup> janvier 2020** au **3 juillet 2022**.
+- le standard d’inscription doit être réalisé durant la période du **1<sup>er</sup> janvier 2020** au **3 juillet 2022**.
 
 ## Conditions d’éligibilité
 
