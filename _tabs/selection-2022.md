@@ -17,8 +17,8 @@ Chaque région pourra envoyer une délégation d’au plus 30 athlètes en athl�
 
 Deux critères principaux sont à retenir :
 
-1. Participation à une compétition identifiée finale régionale.
-2. Réalisation d’un standard de performance;
+1. participation à une compétition identifiée finale régionale;
+2. réalisation d’un standard de performance.
 
 ## Événements de sélection
 
