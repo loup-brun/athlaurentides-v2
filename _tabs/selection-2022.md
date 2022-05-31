@@ -97,11 +97,20 @@ Cette liste n’est pas exhaustive et ne se substitue pas aux [normes d’opéra
 - **Affiliation** : l’affiliation à un club d’athlétisme dans le volet **«&nbsp;compétitif&nbsp;»** est obligatoire (par exemple : le [club d’athlétisme Corsaire-Chaparral](https://corsaire-chaparral.org)).
 - **Identification** : les athlètes doivent être identifiés «&nbsp;Espoirs régionaux&nbsp;» par la Fédération québécoise d’athlétisme, ce qui signifie avoir réalisé une performance du niveau [espoirs régionaux](https://athletisme-quebec.ca/medias/normes-2021-niveau-espoirs-regionaux.pdf) (voir la section [identification des athlètes de haut niveau](https://athletisme-quebec.ca/programme-excellence-fqa) sur le site web de la FQA).
 - **Lieu d’appartenance** : le domicile de l’athlète doit être sur le territoire des [Laurentides](http://www.jeuxduquebec.com/Region-34-Laurentides-fr-11.php).
+- **Déclaration** : l’athlète doit avoir rempli lui-même le [formulaire de déclaration de l’athlète](https://forms.gle/ArG12i9E5q8fr8Ma6), au plus tard le 30 juin 2022.
 
 ## Processus de sélection
 
-Le processus de sélection sera et devra être approuvé par la Fédération québécoise d’athlétisme.
+La période de réalisation des performances retenue pour la sélection s’étend du 1<sup>er</sup> janvier 2020 au 3 juillet 2022.
 
-La composition de l’équipe telle que décidée par le comité de sélection est finale et sans appel.
+Toute performance réalisée lors d’un événement sanctionné par la Fédération québécoise d’athlétisme (ou une autre fédération reconnue) pourra être prise en compte pour la sélection, en plus des finales régionales.
 
-_Détails à venir._
+Rondes de sélection (en ordre de priorité décroissante) :
+
+1. Réaliser la meilleure performance de la région  dans deux épreuves ou plus;
+2. Réaliser la meilleure performance de la région dans une seule épreuve;
+3. Réaliser la deuxième performance de la région dans deux épreuves ou plus;
+4. Réaliser la deuxième performance de la région dans une seule épreuve.
+
+S’il reste des places vacantes après les quatre rondes de sélection décrites plus haut, elles pourront être comblées par des athlètes qui respectent les critères d’admissibilité.
+Le choix est alors à la discrétion du comité de sélection.
