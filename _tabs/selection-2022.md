@@ -2,7 +2,7 @@
 title: Sélection 2022
 description: Toute l’information en vue de la sélection des Jeux de Laval 2022.
 date: 2022-02-27 10:07:59
-last_modified_at: 2022-02-28 15:54:59
+last_modified_at: 2022-05-31 10:00:00
 order: 1
 icon: fa fa-star
 ---
