@@ -32,63 +32,6 @@ La participation à **au moins une** des compétitions identifiés comme «&nbsp
 **Attention!** L’athlète qui n’aura pas participé à une finale régionale (même en ayant réalisé un standard d’inscription) ne sera pas éligible à participer à la finale provinciale des Jeux du Québec.
 À noter qu’une participation à une finale régionale à elle seule, sans regard au classement, ne garantit pas la sélection de l’athlète pour l’équipe régionale.
 
-## Standards d’inscription
-
-| Juvénile (U18) féminin | Standard d’inscription |
-|------------------------|------------------------|
- | 100m                   | 13.69                  |
- | 200m                   | 28.31                  |
- | 400m                   | 1:05.12                |
- | 800m                   | 2:33.15                |
- | 1500m                  | 5:23.35                |
- | 3000m                  | 11:55.47               |
- | 100m haies             | 18.00                  |
- | 400m haies             | 1:16.48                |
- | 2000m steeple          | 8:22.94                |
- | 3000m marche           | 19:34.95               |
- | Hauteur                | 1.40m                  |
- | Perche                 | 2.00m                  |
- | Longueur               | 4.37m                  |
- | Triple saut            | 9.10m                  |
- | Poids 3kg              | 8.71m                  |
- | Disque 1kg             | 21.51m                 |
- | Marteau 3kg            | 25.67m                 |
- | Javelot 500g           | 23.84m                 |
- | Heptathlon             | 2763                   |
-
-
-| Juvénile (U18) masculin | Standard d’inscription |
-|-------------------------|------------------------|
-| 100m                    | 12.01                  |
-| 200m                    | 24.58                  |
-| 400m                    | 55.43                  |
-| 800m                    | 2:09.74                |
-| 1500m                   | 4:30.84                |
-| 3000m                   | 9:55.94                |
-| 110m haies              | 17.39                  |
-| 400m haies              | 1:06.21                |
-| 2000m steeple           | 7:01.68                |
-| 3000m marche            | 17:59.29               |
- | Hauteur                 | 1.65m                  |
- | Perche                  | 2.65m                  |
- | Longueur                | 5.38m                  |
-| Triple saut             | 11.02m                 |
-| Poids 5kg               | 10.59m                 |
-| Disque 1.5kg            | 27.91m                 |
-| Marteau 5kg             | 28.44m                 |
-| Javelot 700g            | 34.33m                 |
-| Décathlon               |  3669                  |
-
-_Source : [standards d’inscription](https://www.athletisme-quebec.ca/medias/standards-inscription-jq-2022-et-equivalences.pdf) sur le site web de la Fédération québécoise d’athlétisme_
-
-**Notes** :
-
-- la réalisation de **standards d’inscription** requise pour participer à **plusieurs épreuves** aux Jeux du Québec, de même qu’aux épreuves combinées;
-- pour participer à **une seule épreuve** (à l’exception des épreuves combinées), un standard d’inscription n’est pas exigé (mais l’athlète doit tout de même être identifié «&nbsp;espoir régional&nbsp;» par la Fédération québécoise d’athlétisme);
-- la réalisation d’un standard ne garantit pas à elle seule une qualification automatique de l’athlète;
-- la réalisation de plusieurs standards ainsi que les performances de l’athlète au courant de la saison constitueront des critères déterminants dans le processus de sélection;
-- le standard d’inscription doit être réalisé durant la période du **1<sup>er</sup> janvier 2020** au **3 juillet 2022**.
-
 ## Conditions d’éligibilité
 
 Voici quelques éléments importants pour s’assurer de l’éligibilité de l’athlète en vue de sa participation à la finale provinciale des Jeux du Québec.
@@ -114,3 +57,61 @@ Rondes de sélection (en ordre de priorité décroissante) :
 
 S’il reste des places vacantes après les quatre rondes de sélection décrites plus haut, elles pourront être comblées par des athlètes qui respectent les critères d’admissibilité.
 Le choix est alors à la discrétion du comité de sélection.
+
+## Standards d’inscription
+
+| Juvénile (U18) féminin | Standard d’inscription |
+|------------------------|------------------------|
+| 100m                   | 13.69                  |
+| 200m                   | 28.31                  |
+| 400m                   | 1:05.12                |
+| 800m                   | 2:33.15                |
+| 1500m                  | 5:23.35                |
+| 3000m                  | 11:55.47               |
+| 100m haies             | 18.00                  |
+| 400m haies             | 1:16.48                |
+| 2000m steeple          | 8:22.94                |
+| 3000m marche           | 19:34.95               |
+| Hauteur                | 1.40m                  |
+| Perche                 | 2.00m                  |
+| Longueur               | 4.37m                  |
+| Triple saut            | 9.10m                  |
+| Poids 3kg              | 8.71m                  |
+| Disque 1kg             | 21.51m                 |
+| Marteau 3kg            | 25.67m                 |
+| Javelot 500g           | 23.84m                 |
+| Heptathlon             | 2763                   |
+
+
+| Juvénile (U18) masculin | Standard d’inscription |
+|-------------------------|------------------------|
+| 100m                    | 12.01                  |
+| 200m                    | 24.58                  |
+| 400m                    | 55.43                  |
+| 800m                    | 2:09.74                |
+| 1500m                   | 4:30.84                |
+| 3000m                   | 9:55.94                |
+| 110m haies              | 17.39                  |
+| 400m haies              | 1:06.21                |
+| 2000m steeple           | 7:01.68                |
+| 3000m marche            | 17:59.29               |
+| Hauteur                 | 1.65m                  |
+| Perche                  | 2.65m                  |
+| Longueur                | 5.38m                  |
+| Triple saut             | 11.02m                 |
+| Poids 5kg               | 10.59m                 |
+| Disque 1.5kg            | 27.91m                 |
+| Marteau 5kg             | 28.44m                 |
+| Javelot 700g            | 34.33m                 |
+| Décathlon               |  3669                  |
+
+_Source : [standards d’inscription](https://www.athletisme-quebec.ca/medias/standards-inscription-jq-2022-et-equivalences.pdf) sur le site web de la Fédération québécoise d’athlétisme_
+
+**Notes** :
+
+- la réalisation de **standards d’inscription** requise pour participer à **plusieurs épreuves** aux Jeux du Québec, de même qu’aux épreuves combinées;
+- pour participer à **une seule épreuve** (à l’exception des épreuves combinées), un standard d’inscription n’est pas exigé (mais l’athlète doit tout de même être identifié «&nbsp;espoir régional&nbsp;» par la Fédération québécoise d’athlétisme);
+- la réalisation d’un standard ne garantit pas à elle seule une qualification automatique de l’athlète;
+- la réalisation de plusieurs standards ainsi que les performances de l’athlète au courant de la saison constitueront des critères déterminants dans le processus de sélection;
+- le standard d’inscription doit être réalisé durant la période du **1<sup>er</sup> janvier 2020** au **3 juillet 2022**.
+
