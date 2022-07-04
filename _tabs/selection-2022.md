@@ -1,11 +1,13 @@
 ---
 title: Sélection 2022
 description: Toute l’information en vue de la sélection des Jeux de Laval 2022.
-date: 2022-02-27 10:07:59
-last_modified_at: 2022-05-31 10:00:00
+date: 2022-02-27 10:07:59-0500
+last_modified_at: 2022-07-04 8:00:00-0400
 order: 1
 icon: fa fa-star
 ---
+
+[4 juillet 2022] La sélection 2022 a été publiée! [Lire la nouvelle](/nouvelles/selection-officielle-2022/)
 
 ## Préambule
 
@@ -114,4 +116,3 @@ _Source : [standards d’inscription](https://www.athletisme-quebec.ca/medias/st
 - la réalisation d’un standard ne garantit pas à elle seule une qualification automatique de l’athlète;
 - la réalisation de plusieurs standards ainsi que les performances de l’athlète au courant de la saison constitueront des critères déterminants dans le processus de sélection;
 - le standard d’inscription doit être réalisé durant la période du **1<sup>er</sup> janvier 2020** au **3 juillet 2022**.
-

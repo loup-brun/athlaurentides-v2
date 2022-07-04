@@ -1,6 +1,9 @@
 ---
 title: "Sélection officielle pour les Jeux du Québec Laval 2022"
 
+date: 2022-07-04 7:30:00-0400
+last_modified_at: 2022-07-04 7:30:00-0400
+
 tags:
 - athlètes
 - sélection
