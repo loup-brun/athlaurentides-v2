@@ -15,3 +15,18 @@ image:
 _Répondant régional_<br>
 +1 (450) 280-4077<br>
 <louis@corsaire-chaparral.org>
+
+**Christophe Miglierina**<br>
+_Entraîneur-chef_
+
+**Magalie Charron**<br>
+_Entraîneure_
+
+**Émilie Lefrançois**<br>
+_Entraîneure_
+
+**Gabrielle Rochon**<br>
+_Entraîneure_
+
+**Simon Prince-Desjardins**<br>
+_Entraîneur_
