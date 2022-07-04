@@ -6,7 +6,6 @@ tags:
 - sélection
 - JDQ2022
 
-pin: true
 ---
 
 Voici un portrait préliminaire d’athlètes des Laurentides en vue pour l’équipe de JDQ2022 (7 athlètes féminins, 8 athlètes masculins, 15 athlètes au total).
