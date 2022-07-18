@@ -9,8 +9,6 @@ tags:
 - sélection
 - JDQ2022
 
-pin: true
-
 ---
 
 L’équipe des Laurentides en athlétisme est fière de présenter la composition de sa délégation pour les Jeux du Québec Laval 2022! La région enverra 11 filles et 13 garçons, ainsi qu’une équipe d’encadrement de cinq personnes.
