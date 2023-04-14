@@ -13,7 +13,6 @@ image:
 
 **Louis-Olivier Brassard**<br>
 _Répondant régional_<br>
-+1 (450) 280-4077<br>
 <louis@corsaire-chaparral.org>
 
 **Christophe Miglierina**<br>
