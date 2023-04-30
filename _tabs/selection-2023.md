@@ -2,14 +2,14 @@
 title: Sélection 2023
 description: Toute l’information en vue de la sélection des Jeux de Rimouski 2023.
 date: 2023-04-13 20:30:00-0400
-last_modified_at: 2023-04-28 10:10:00-0500
+last_modified_at: 2023-04-28 10:37:00-0500
 order: 1
 icon: fa fa-star
 ---
 
 ## Préambule
 
-La [57<sup>e</sup> finale des Jeux du Québec](https://laval2022.jeuxduquebec.com/fr/index.html) se tiendra à Rimouski à l’été 2023. L’athlétisme figure dans le premier bloc de compétitions, soit du 22 au 25 juillet 2023.
+La [57<sup>e</sup> finale des Jeux du Québec](https://rimouski2023.jeuxduquebec.com/) se tiendra à Rimouski à l’été 2023. L’athlétisme figure dans le premier bloc de compétitions, soit du 22 au 25 juillet 2023.
 
 <!--more-->
 
