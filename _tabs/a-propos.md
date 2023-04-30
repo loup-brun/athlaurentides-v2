@@ -13,7 +13,7 @@ image:
 
 **Louis-Olivier Brassard**<br>
 _Répondant régional_<br>
-<louis@corsaire-chaparral.org>
+<louis@athlaurentides.ca>
 
 **Christophe Miglierina**<br>
 _Entraîneur-chef_
