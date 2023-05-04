@@ -2,7 +2,7 @@
 title: Sélection 2023
 description: Toute l’information en vue de la sélection des Jeux de Rimouski 2023.
 date: 2023-04-13 20:30:00-0400
-last_modified_at: 2023-04-28 10:37:00-0500
+last_modified_at: 2023-05-04 7:45:00-0400
 order: 1
 icon: fa fa-star
 ---
@@ -37,10 +37,10 @@ La participation à **au moins une** des compétitions identifiés comme «&nbsp
 Voici quelques éléments importants pour s’assurer de l’éligibilité de l’athlète en vue de sa participation à la finale provinciale des Jeux du Québec.
 Cette liste n’est pas exhaustive et ne se substitue pas aux [devis technique](https://www.jeuxduquebec.com/devis-techniques/), mais elle constitue un aide-mémoire pratique :
 
-- **Affiliation** : l’affiliation à un club d’athlétisme dans le volet **«&nbsp;compétitif&nbsp;»** est obligatoire (par exemple : le [club d’athlétisme Corsaire-Chaparral](https://www.corsaire-chaparral.org)).
+- **Affiliation** : l’affiliation à un club d’athlétisme dans le volet **«&nbsp;compétitif&nbsp;»** est obligatoire ([liste des clubs au Québec](https://athletisme-quebec.ca/liste-des-clubs-affilies.php)).
 - **Identification** : les athlètes doivent être identifiés «&nbsp;Espoirs régionaux&nbsp;» par la Fédération québécoise d’athlétisme, ce qui signifie avoir réalisé une performance A ou B du niveau [espoirs régionaux](https://www.athletisme-quebec.ca/medias/normes-espoirs-2023-2.pdf) (voir la section [identification des athlètes de haut niveau](https://athletisme-quebec.ca/programme-excellence-fqa) sur le site web de la FQA).
 - **Lieu d’appartenance** : le domicile de l’athlète doit être sur le territoire des [Laurentides](https://www.jeuxduquebec.com/les-regions/#14).
-- **Déclaration** : l’athlète doit avoir rempli lui-même le [formulaire de déclaration de l’athlète](https://forms.gle/ArG12i9E5q8fr8Ma6).<!-- avant? -->
+- **Déclaration** : l’athlète doit avoir rempli lui-même le [formulaire de déclaration de l’athlète](https://docs.google.com/forms/d/e/1FAIpQLScYSVdrBiV7wrIJU4WCFXAVEIf8nQQdg_eOGF4ilmYn5LZY2w/viewform).<!-- avant? -->
 
 ## Processus de sélection
 
