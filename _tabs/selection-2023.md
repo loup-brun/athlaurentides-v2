@@ -35,7 +35,7 @@ La participation à **au moins une** des compétitions identifiés comme «&nbsp
 ## Conditions d’éligibilité
 
 Voici quelques éléments importants pour s’assurer de l’éligibilité de l’athlète en vue de sa participation à la finale provinciale des Jeux du Québec.
-Cette liste n’est pas exhaustive et ne se substitue pas aux [devis technique](https://www.jeuxduquebec.com/devis-techniques/), mais elle constitue un aide-mémoire pratique :
+Cette liste n’est pas exhaustive et ne se substitue pas au [devis technique](https://www.jeuxduquebec.com/devis-techniques/), mais elle constitue un aide-mémoire pratique :
 
 - **Affiliation** : l’affiliation à un club d’athlétisme dans le volet **«&nbsp;compétitif&nbsp;»** est obligatoire ([liste des clubs au Québec](https://athletisme-quebec.ca/liste-des-clubs-affilies.php)).
 - **Identification** : les athlètes doivent être identifiés «&nbsp;Espoirs régionaux&nbsp;» par la Fédération québécoise d’athlétisme, ce qui signifie avoir réalisé une performance A ou B du niveau [espoirs régionaux](https://www.athletisme-quebec.ca/medias/normes-espoirs-2023-2.pdf) (voir la section [identification des athlètes de haut niveau](https://athletisme-quebec.ca/programme-excellence-fqa) sur le site web de la FQA).
