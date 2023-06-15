@@ -20,7 +20,7 @@ Deux critères principaux sont à retenir :
 1. participation à une compétition identifiée finale régionale;
 2. atteinte de la norme « espoirs régionaux ».
 
-## Événements de sélection
+## Événements labellisés «&nbsp;finale régionale des Jeux du Québec&nbsp;»
 
 La participation à **au moins une** des compétitions identifiés comme «&nbsp;finale régionale des Jeux du Québec pour la région des Laurentides&nbsp;» est **obligatoire**.
 
