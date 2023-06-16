@@ -29,12 +29,12 @@ La participation à **au moins une** des compétitions identifiés comme «&nbsp
 | 25 mai 2023  | [**Championnat réginal scolaire Laurentides-Lanaudière**](https://ll.rseq.ca/athletisme-2/) |
 |  28 mai 2023 | [**Corsaire-Chaparral Invitation**](https://corsaire-chaparral.org/competitions/corsaire-chaparral-invitation/) |
 
-**Attention!** L’athlète qui n’aura pas participé à une finale régionale (même en ayant réalisé une performance de niveau « espoirs régionaux ») ne sera pas éligible à participer à la finale provinciale des Jeux du Québec.
+**Attention!** L’athlète qui n’aura pas participé à une finale régionale (même en ayant réalisé une performance de niveau « espoirs régionaux ») ne sera pas admissible à participer à la finale provinciale des Jeux du Québec.
 À noter qu’une participation à elle seule à une finale régionale, sans égard au classement, ne garantit pas la sélection de l’athlète pour l’équipe régionale.
 
-## Conditions d’éligibilité
+## Conditions d’admissibilité
 
-Voici quelques éléments importants pour s’assurer de l’éligibilité de l’athlète en vue de sa participation à la finale provinciale des Jeux du Québec.
+Voici quelques éléments importants pour s’assurer de l’admissibilité de l’athlète en vue de sa participation à la finale provinciale des Jeux du Québec.
 Cette liste n’est pas exhaustive et ne se substitue pas au [devis technique](https://www.jeuxduquebec.com/devis-techniques/), mais elle constitue un aide-mémoire pratique :
 
 - **Affiliation** : l’affiliation à un club d’athlétisme dans le volet **«&nbsp;compétitif&nbsp;»** est obligatoire ([liste des clubs au Québec](https://athletisme-quebec.ca/liste-des-clubs-affilies.php)).
