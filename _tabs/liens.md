@@ -4,6 +4,7 @@ order: 2
 icon: fa fa-link
 ---
 
+- [**Inscription des athlètes**](https://apps.publicationsports.com/fr/public/76/athlete-public-form.html) – important, à remplir au nom de l’athlète avec sa photo pour l’accréditation
 - Site web officiel des [Jeux du Québec Rimouski 2023](https://rimouski2023.jeuxduquebec.com/)
 - [**Formulaire d’identification de l’athlète**](https://docs.google.com/forms/d/e/1FAIpQLScYSVdrBiV7wrIJU4WCFXAVEIf8nQQdg_eOGF4ilmYn5LZY2w/viewform) (doit être rempli par l’athlète)
 - [**Normes d’identification espoirs régionaux 2023**](https://www.athletisme-quebec.ca/medias/normes-espoirs-2023.pdf) (le niveau espoir est requis pour participer aux Jeux du Québec)
