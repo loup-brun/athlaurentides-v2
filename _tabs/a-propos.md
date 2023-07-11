@@ -21,10 +21,13 @@ _Entraîneur-chef_
 **Magalie Charron**<br>
 _Entraîneure_
 
+**Laurence Gervais**<br>
+_Entraîneure_
+
 **Émilie Lefrançois**<br>
 _Entraîneure_
 
-**Gabrielle Rochon**<br>
+**Laurence Gervais**<br>
 _Entraîneure_
 
 **Simon Prince-Desjardins**<br>
